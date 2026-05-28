@@ -1,0 +1,3 @@
+posting_date,material,quantity,unit,plant_code,cost_center,vendor
+31.12.2025,Diesel,1500,ltr,DE-MUC-01,CC-100,Vendor A
+2025-04-01,Steel,20,kg,DE-FRA-02,CC-200,Vendor B

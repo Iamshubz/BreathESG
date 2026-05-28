@@ -1,0 +1,4 @@
+meter_id,start_date,end_date,reading,unit,bill_amount
+MTR-100,2025-03-20,2025-04-19,1.5,MWh,200.00
+MTR-200,2025-04-01,2025-04-30,1500,kWh,120.00
+MTR-999,2025-01-01,2025-01-31,50000,kWh,5000.00

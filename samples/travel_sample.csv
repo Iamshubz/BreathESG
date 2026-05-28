@@ -1,0 +1,4 @@
+employee_name,trip_id,departure_airport,arrival_airport,distance_km,amount
+suresh,trip-1,JFK,LHR,3000,500.00
+mahesh,trip-2,SFO,MUC,8500,1200.00
+nitesh,trip-999,JFK,DEL,40000,9999.00
